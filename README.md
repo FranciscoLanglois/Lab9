@@ -21,27 +21,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* Users:
-  -user1:{
-  email: "juan.lopez@test.com",
-  password: "0000",
-  password_confirmation: "0000",
-  first_name: "Juan",
-  last_name: "López",
-  role: 0}
+*
+El administrador tiene acceso total a todos los recursos de la aplicación...
+Credenciales: admin@vetclinic.com / admin123
 
-  - user2:{
-    email: "pedro.perez@test.com",
-    password: "1111",
-    password_confirmation: "1111",
-    first_name: "Pedro",
-    last_name: "Pérez",
-    role: 1}
+Los veterinarios tienen acceso de lectura a la mayoría de los recursos...
+Credenciales: ana.vet@vetclinic.com / vet123
+
+Los dueños representan a los clientes de la clínica...
+Credenciales: juan.owner@vetclinic.com / owner123
     
-  - user3:{
-    email: "maria.gomez@test.com",
-    password: "2222",
-    password_confirmation: "2222",
-    first_name: "María",
-    last_name: "Gómez",
-    role: 2}
