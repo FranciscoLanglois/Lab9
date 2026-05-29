@@ -23,11 +23,11 @@ Things you may want to cover:
 
 *
 El administrador tiene acceso total a todos los recursos de la aplicación...
-Credenciales: admin@vetclinic.com / admin123
+Credenciales: Admin Sistema / admin123
 
 Los veterinarios tienen acceso de lectura a la mayoría de los recursos...
-Credenciales: ana.vet@vetclinic.com / vet123
+Credenciales: Ana Martínez/ vet123
 
 Los dueños representan a los clientes de la clínica...
-Credenciales: juan.owner@vetclinic.com / owner123
+Credenciales: Juan Pérez/ owner123
     
